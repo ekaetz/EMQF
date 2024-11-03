@@ -27,7 +27,7 @@
 	<Item Name="Time Utils.lvlib" Type="Library" URL="../Time/Time Utils.lvlib"/>
 	<Item Name="Data.lvlib" Type="Library" URL="../Data/Data.lvlib"/>
 	<Item Name="Subscription.lvlib" Type="Library" URL="../Subscription/Subscription.lvlib"/>
-	<Item Name="Errors.lvlib" Type="Library" URL="../Errors.lvlib"/>
-	<Item Name="Results.lvlib" Type="Library" URL="../Results.lvlib"/>
-	<Item Name="Abort.lvlib" Type="Library" URL="../Abort.lvlib"/>
+	<Item Name="Errors.lvlib" Type="Library" URL="../Errors/Errors.lvlib"/>
+	<Item Name="Results.lvlib" Type="Library" URL="../Results/Results.lvlib"/>
+	<Item Name="Abort.lvlib" Type="Library" URL="../Abort/Abort.lvlib"/>
 </Library>
